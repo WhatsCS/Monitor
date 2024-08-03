@@ -22,7 +22,7 @@
     "url": "et.sirenfal.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "enigmatic-9-minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-03": 0
+    }
   }
 ]
